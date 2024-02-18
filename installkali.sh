@@ -32,10 +32,10 @@ printf "\e[33;1m        [+]  Open Termux Application \e[0m\n"
 printf "\e[33;1m        [+]  Run '\e[32;1m./start-kali.sh\e[33;1m' command to start Kali  \e[0m\n"
 printf "\e[0m\n"
 printf "\e[32;1m[+]  Follow me on  [+]  \e[0m\n"
-printf "\e[32;1m     [+]  Youtube  :  youtube.com/techpanther     [+]  \e[0m\n"
-printf "\e[32;1m     [+]  Instagram:  instagram.com/techpanther   [+]  \e[0m\n"
-printf "\e[32;1m     [+]  Facebook :  facebook.com/techpanther22  [+]  \e[0m\n"
-printf "\e[32;1m     [+]  Blog     :  techpanther.in              [+]  \e[0m\n"
-printf "\e[32;1m     [+]  github   :  github.com/techpanther22    [+]  \e[0m\n"
-figlet Techpanther | lolcat
+printf "\e[32;1m     [+]  Youtube  :  youtube.com/HackerGuptajii     [+]  \e[0m\n"
+printf "\e[32;1m     [+]  Instagram:  instagram.com/Its_Vip_Krishna_Gupta   [+]  \e[0m\n"
+printf "\e[32;1m     [+]  Facebook :  facebook.com/KrishnaGupta  [+]  \e[0m\n"
+printf "\e[32;1m     [+]  Blog     :  HackerGuptajii.Com              [+]  \e[0m\n"
+printf "\e[32;1m     [+]  github   :  github.com/GuptajiHacker    [+]  \e[0m\n"
+figlet Vip-KaliLinux | lolcat
 exit
