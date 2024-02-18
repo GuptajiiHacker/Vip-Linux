@@ -1,4 +1,4 @@
-# Termux-Kali
+# Vip-Termux-KaliLinux
 This Script allows you to Install Kali Linux on Android using Termux application.
 
 ## How to Install
