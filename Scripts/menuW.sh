@@ -1,6 +1,17 @@
 #!/bin/bash
-echo "+===================================================+"; echo "|  _     _                  ____            _     _ |"; echo "| | |   (_)_ __  _   ___  _|  _ \ _ __ ___ (_) __| ||"; echo "| | |   | |  _ \| | | \ \/ / | | |  __/ _ \| |/ _  ||"; echo "| | |___| | | | | |_| |>  <| |_| | | | (_) | | (_| ||"; echo "| |_____|_|_| |_|\__,_/_/\_\____/|_|  \___/|_|\__,_||"; echo "|                     By  Vivek W                   |"; echo "|                                                   |"; echo "|            GitHub:- Github.com/AryanVBW           |"; echo "|              Site:- AryanVBW.github.io            |"; echo "|         Instagram:- Aryan_Technolog1es            |"; echo "+===================================================+";
-echo -e "\e[1m\e[32mWelcome to the LinuxDroid!\e[0m"
+"echo -e "\033[96m+===================================================+\033[0m";
+"echo -e "\033[96m|               _     _                             |\033[0m";
+"echo -e "\033[96m|              | |   (_)_ __  _   ___  _            |\033[0m";
+"echo -e "\033[96m|              | |   | |  _ \| | | \ \/ /           |\033[0m";
+"echo -e "\033[96m|              | |___| | | | | |_| |>  <|           |\033[0m";
+"echo -e "\033[96m|              |_____|_|_| |_|\__,_/_/\_\           |\033[0m";
+"echo -e "\033[96m|                   By  KrishnaGupta                |\033[0m";
+"echo -e "\033[96m|                                                   |\033[0m";
+"echo -e "\033[96m|            🔥GitHub:- Github.com/Guptaji          |\033[0m";
+"echo -e "\033[96m|              🌐Site:- Guptajiihacker.github.io    |\033[0m";
+"echo -e "\033[96m|         💖Instagram:- its_vip_krishna_gupta       |\033[0m";
+"echo -e "\033[96m+===================================================+\033[0m";
+[1m\e[32mWelcome to the Vip-Linux!\e[0m"
 declare -a os_list=()
 
 # Find and extract OS names
